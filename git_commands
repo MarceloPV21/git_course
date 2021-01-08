@@ -1,0 +1,23 @@
+Git Commands List
+
+git init: Initialize a repository
+
+git status: Visualize status of each file
+
+git status -s: Visualize status in compact way
+
+git add <file>: Add file to stage area
+
+git add .: Add all files to stage area
+
+git commit -m 'Message': Save your change to the local repository
+
+git commit -a -m 'Message': Save your change and skip 'Add step', so you can commit without the need of Add files before
+
+git log: Visualize all commits and changes that you did before
+
+git log --oneline: Visualize all commits and changes in oneline
+
+git log -p: Visualize all commits and changes in details
+
+Git log cheatsheet site: https://devhints.io/git-log
